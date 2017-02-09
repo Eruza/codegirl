@@ -1,0 +1,28 @@
+{
+  "name": "codegirl",
+  "version": "0.0.1",
+  "description": "The Java programming framework for girls",
+  "main": "dist/codegirl.jar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eruza/codegirl.git"
+  },
+  "keywords": [
+    "java",
+    "framework",
+    "girls",
+    "women",
+    "woman",
+    "codegirl",
+    "simple"
+  ],
+  "author": "Erza Scarlet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eruza/codegirl/issues"
+  },
+  "homepage": "https://github.com/Eruza/codegirl#readme"
+}
